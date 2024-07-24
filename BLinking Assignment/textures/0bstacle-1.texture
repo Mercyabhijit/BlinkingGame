@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "0bstacle-1",
+  "identifier": "texture:1949-b70d6341-52b1-406f-b7a4-678408b94d3b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2f521664e594525cbd6e4502a22871ef",
+  "assetLocator": "textures/0bstacle-1.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2f521664e594525cbd6e4502a22871ef",
+      "colorCount": 13826,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.5228453935522857,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}
